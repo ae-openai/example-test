@@ -1,4 +1,4 @@
-# OpenSourceExample
+# AE's example-test
 Example configuration for repositories that will become open-source/source-available.
 
 ## Using the `trufflehog` Pre-Commit Hook
